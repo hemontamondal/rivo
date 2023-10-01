@@ -479,7 +479,9 @@ footer{
 	color: #224F34;
 	background: #A3F3BE;
 	text-transform: uppercase;
-	border: 2px solid #A3F3BE;
+	border: 2px solid #A3F3BE;	
+	border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
 	transition: .33s ease;
 }
 .form_btn:hover{
