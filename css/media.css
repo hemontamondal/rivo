@@ -116,6 +116,9 @@ header {
 .off_cbox {
     margin: 30px 0 40px;
 }
+.offer_btn{
+    text-align: center;
+}
 /*offer end*/
 
 /*feedback start*/
@@ -321,6 +324,9 @@ footer {
 .off_cbox {
     margin: 30px 0 40px;
 }
+.offer_btn{
+    text-align: center;
+}
 /*offer end*/
 
 /*designer start*/
@@ -525,6 +531,9 @@ footer {
 .off_cbox {
     margin: 36px 0 50px;
 }
+.offer_btn{
+    text-align: center;
+}	
 /*offer end*/
 
 /*designer start*/
