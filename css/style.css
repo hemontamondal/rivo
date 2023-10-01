@@ -193,6 +193,7 @@ header {
 }
 .r_icon{}
 .r_icon i{
+	margin-left: 2px;
 	font-size: 16px;
 	color: #F5D426;
 }
